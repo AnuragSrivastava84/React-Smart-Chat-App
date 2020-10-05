@@ -13,5 +13,6 @@ https://smart-chat-app-cb40b.web.app/
 * **Login Screen**
 ![Login Screen](/images/login.png)
 
+
 * **Chat Screen**
 ![Chat Screen](/images/chat.png)
