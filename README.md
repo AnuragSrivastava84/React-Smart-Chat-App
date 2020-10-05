@@ -9,5 +9,7 @@ This application is created using ReactJS, Material UI, React-Context and fire-s
 
 # Screen Shots
 
-* ![Login Screen](/images/login.png)
-* ![Chat Screen](/images/chat.png)
+*Login Screen*
+![Login Screen](/images/login.png)
+*Chat Screen*
+![Chat Screen](/images/chat.png)
