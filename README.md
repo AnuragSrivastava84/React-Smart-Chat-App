@@ -6,10 +6,12 @@ This application is created using ReactJS, Material UI, React-Context and fire-s
 
 
 # URL
+https://smart-chat-app-cb40b.web.app/
 
 # Screen Shots
 
-*Login Screen*
+**Login Screen**
 ![Login Screen](/images/login.png)
-*Chat Screen*
+
+**Chat Screen**
 ![Chat Screen](/images/chat.png)
