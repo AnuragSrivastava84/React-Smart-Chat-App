@@ -10,8 +10,8 @@ https://smart-chat-app-cb40b.web.app/
 
 # Screen Shots
 
-**Login Screen**
+* **Login Screen**
 ![Login Screen](/images/login.png)
 
-**Chat Screen**
+* **Chat Screen**
 ![Chat Screen](/images/chat.png)
